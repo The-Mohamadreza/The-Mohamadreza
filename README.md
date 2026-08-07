@@ -1,52 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=MOHAMMADREZA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20WEB%20%E2%80%A2%20BUILDING%20THE%20FUTURE&descAlignY=61&descSize=16&animation=fadeIn&color=0:020617,50:0F172A,100:0891B2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=MOHAMMADREZA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20WEB%20%E2%80%A2%20BUILDING&descAlignY=62&descSize=18&animation=fadeIn&color=0:020617,45:0F172A,100:06B6D4" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=720&lines=Artificial+Intelligence+%7C+Web+Development;Machine+Learning+%7C+Computer+Vision;Python+%7C+JavaScript+%7C+PHP+%7C+SQL;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=720&lines=AI+%26+Machine+Learning;Web+Development;Python+%7C+JavaScript+%7C+PHP+%7C+SQL;Building+Ideas+Into+Real+Projects+%F0%9F%9A%80" />
 
 <br><br>
 
 <a href="https://mmd-ai.com/index-fa.html">
-<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="https://github.com/mhmdrzanouriyani">
+<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/mohammadreza-nouriyani-5b2919245/">
+<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mhmdrzanouriyani&style=flat-square&color=22D3EE&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
 ### `AI × WEB × CREATIVITY`
 
-**Building intelligent systems and modern digital experiences.**
+**Building intelligent systems, modern websites and practical digital products.**
 
 </div>
 
----
+<br>
 
 ## 👋 About Me
 
-I'm a developer exploring the intersection of **Artificial Intelligence** and **Web Development**.
+I'm **Mohammadreza Nouriyani**, a developer focused on the intersection of **Artificial Intelligence and Web Development**.
 
-I build practical projects — from **machine learning and computer vision** to **responsive websites, APIs and AI-powered web applications**.
+I enjoy turning ideas into real projects — from **Machine Learning, Computer Vision and OCR** to **responsive websites, APIs, databases and AI-powered applications**.
 
-My approach is simple:
+I'm constantly learning, experimenting and building.
 
-> **Learn deeply → Build practically → Improve continuously.**
+> **Learn → Build → Experiment → Improve**
 
 ---
 
-## ⚡ What I Do
+## 🧠 What I Do
 
 <table>
 <tr>
@@ -55,7 +59,7 @@ My approach is simple:
 
 ### 🤖 Artificial Intelligence
 
-`Python`
+**Python**
 
 `Machine Learning`
 
@@ -69,19 +73,23 @@ My approach is simple:
 
 `AI Automation`
 
+`Exploring Deep Learning`
+
 </td>
 
 <td width="50%" valign="top">
 
 ### 🌐 Web Development
 
-`HTML` · `CSS` · `JavaScript`
+**HTML • CSS • JavaScript**
 
-`PHP` · `SQL / MySQL`
+**PHP • SQL / MySQL**
+
+`Responsive Design`
 
 `REST APIs`
 
-`Responsive Design`
+`Backend Development`
 
 `PWA`
 
@@ -94,15 +102,15 @@ My approach is simple:
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
-### 🤖 AI & Data
+### AI / Data
 
 <img src="https://skillicons.dev/icons?i=python" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/NumPy-0B1120?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
 <img src="https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=150458"/>
@@ -111,13 +119,13 @@ My approach is simple:
 
 <br><br>
 
-### 🌐 Web
+### Web
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,flask" />
 
 <br><br>
 
-### 🛠️ Tools & Design
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 
@@ -125,38 +133,42 @@ My approach is simple:
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Selected Projects
+
+<div align="center">
+
+### 💻 Web & Software
+
+</div>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ☕ Vertu Café
+### 🎨 Syntax Highlighter
 
-**Modern Mobile-First Website**
+A programming-language project with a **real-time lexer, parser and GUI editor**, built from scratch with Python and Tkinter.
 
-A clean digital experience for a café with menu, visual identity, responsive design and PWA-oriented architecture.
+`Python` `Lexer` `Parser` `Tkinter`
 
-`HTML` `CSS` `JavaScript` `PWA` `UI/UX`
-
-<br>
-
-<a href="https://mmd-ai.com/vertu">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge"/>
+<a href="https://github.com/mhmdrzanouriyani/programing-language-project">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏋️ Oxygen Gym
+### 📺 YouTube Downloader
 
-**Responsive Fitness Website**
+A Python-based tool for downloading videos in high quality through a simple workflow.
 
-A modern gym experience focused on mobile-first design, services, pricing, trainer information and customer experience.
+`Python` `Automation`
 
-`HTML` `CSS` `JavaScript` `Responsive`
+<a href="https://github.com/mhmdrzanouriyani/YOUTUBE-DOWNLOADER">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -166,58 +178,73 @@ A modern gym experience focused on mobile-first design, services, pricing, train
 
 <td width="50%" valign="top">
 
-### 🤖 AI / ML Projects
+### 📸 Instagram Downloader
 
-**Practical AI Experiments**
+A Python utility for downloading media from public Instagram profiles.
 
-Projects and experiments around machine learning, data processing, OCR and computer vision.
+`Python` `Automation`
 
-`Python` `NumPy` `Pandas` `Scikit-Learn` `OpenCV`
+<a href="https://github.com/mhmdrzanouriyani/Instagram-downloader">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💬 PrivateChat X
+### 🧠 Python Quiz
 
-**Web Messaging Concept**
+An interactive terminal-based Python quiz with scoring and question handling.
 
-A modern messaging project combining frontend UI, PHP backend, APIs and MySQL database architecture.
+`Python` `CLI`
 
-`JavaScript` `PHP` `MySQL` `API`
+<a href="https://github.com/mhmdrzanouriyani/Quiz-python">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 </tr>
 </table>
 
+<div align="center">
+
+### 🌐 Web Projects
+
+**Vertu Café** · **Oxygen Gym** · **PrivateChat X**
+
+Modern, responsive and mobile-first projects built around **UI/UX, JavaScript, PHP, SQL, APIs and PWA concepts.**
+
+<br>
+
+<a href="https://mmd-ai.com/vertu">
+<img src="https://img.shields.io/badge/EXPLORE%20WEB%20PROJECTS-0B1120?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
-## 🧠 AI + Web
+## 🔬 AI / ML Direction
 
 <div align="center">
 
 ```text
-        🤖 ARTIFICIAL INTELLIGENCE
-                    │
-          ┌─────────┼─────────┐
-          │         │         │
-         ML        CV        OCR
-          │         │         │
-          └─────────┼─────────┘
-                    │
-                    ▼
-              ⚡ AI LOGIC
-                    │
-                    ▼
-             ┌─────────────┐
-             │     WEB     │
-             │             │
-             │ UI → API → DB
-             └──────┬──────┘
-                    │
-                    ▼
-          🚀 INTELLIGENT PRODUCTS
+                 🤖 ARTIFICIAL INTELLIGENCE
+                           │
+            ┌──────────────┼──────────────┐
+            ▼              ▼              ▼
+      Machine Learning  Computer Vision   OCR
+            │              │              │
+            └──────────────┼──────────────┘
+                           ▼
+                    AI APPLICATIONS
+                           │
+                           ▼
+                    🌐 AI + WEB
+                           │
+                           ▼
+                  🚀 REAL PRODUCTS
 ```
 
 </div>
@@ -228,13 +255,17 @@ A modern messaging project combining frontend UI, PHP backend, APIs and MySQL da
 
 <div align="center">
 
+### 🧠 AI
+
 `Machine Learning` → `Deep Learning` → `Computer Vision`
 
-**+**
+### 🌐 Web
 
 `JavaScript` → `Backend` → `APIs` → `Full-Stack`
 
-**→ AI-Powered Web Applications**
+### 🚀 Goal
+
+**AI-Powered Web Applications**
 
 </div>
 
@@ -244,13 +275,13 @@ A modern messaging project combining frontend UI, PHP backend, APIs and MySQL da
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B1120&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdrzanouriyani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B1120&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdrzanouriyani&layout=compact&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1" height="175"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0B1120&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=mhmdrzanouriyani&hide_border=true&background=0B1120&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B" width="65%"/>
 
 </div>
 
@@ -260,41 +291,33 @@ A modern messaging project combining frontend UI, PHP backend, APIs and MySQL da
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/mhmdrzanouriyani/mhmdrzanouriyani/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## 🎯 Direction
+## 🎯 My Direction
 
 <div align="center">
 
-### From code → to intelligence → to products.
-
-<br>
-
-**Machine Learning**
+**CODE**
 
 ↓
 
-**Deep Learning**
+**INTELLIGENCE**
 
 ↓
 
-**Computer Vision**
+**DESIGN**
 
 ↓
 
-**AI Applications**
+**PRODUCT**
 
 ↓
 
-**AI × Web**
-
-↓
-
-### 🚀 Intelligent Digital Products
+### 🚀 AI-Powered Digital Experiences
 
 </div>
 
@@ -302,26 +325,30 @@ A modern messaging project combining frontend UI, PHP backend, APIs and MySQL da
 
 <div align="center">
 
-## 🌐 Explore
+## 🌐 FIND ME
 
 <a href="https://mmd-ai.com/index-fa.html">
-<img src="https://img.shields.io/badge/MY%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/MY%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/mhmdrzanouriyani">
+<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/MY%20LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mohammadreza-nouriyani-5b2919245/">
+<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Mohixcode">
+<img src="https://img.shields.io/badge/YOUTUBE-DC2626?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <br><br>
 
-### `BUILD • LEARN • CREATE • EVOLVE`
+### `BUILD • LEARN • EXPERIMENT • EVOLVE`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0891B2,50:0F172A,100:020617" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:0F172A,100:020617" width="100%"/>
 
 </div>
