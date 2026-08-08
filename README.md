@@ -8,9 +8,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📍%20Based%20in-Iran-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
-
 <br><br>
 
 <a href="mailto:diegoai4040@gmail.com"><img src="https://img.shields.io/badge/-Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
