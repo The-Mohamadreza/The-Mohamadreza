@@ -96,15 +96,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:D4AF37&height=2&section=header" width="100%"/>
 
 <br>
-|
+
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:D4AF37&height=2&section=header" width="100%"/>
 
 <br>
 
-<div align="center">
 <h3>📊 GITHUB STATS</h3>
 <br>
 
