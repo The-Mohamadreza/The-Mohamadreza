@@ -55,12 +55,14 @@
 
 **AI &amp; Machine Learning**
 <br>
+<br>
 <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 
 **Tools &amp; Frameworks**
+<br>
 <br>
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
