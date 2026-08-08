@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&letterSpacing=1px&lines=Training+neural+networks+to+see+the+world.;Turning+raw+data+into+real+decisions.;Designing+clean%2C+full-stack+products.;Welcome+to+my+workspace." alt="Typing SVG" />
 
-<br><br>
+
 
 <br><br>
 
