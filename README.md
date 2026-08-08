@@ -96,19 +96,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:D4AF37&height=2&section=header" width="100%"/>
 
 <br>
-
-<div align="center">
-<h3>🚀 FEATURED PROJECTS</h3>
-</div>
-
-<br>
-
-| Project | Description | Tech |
-|---|---|---|
-| [Webcam Headcount](https://github.com/The-Mohamadreza/PROJECT_REPO_1) | Real-time computer vision system that counts people in front of a webcam for online classes | Python, TensorFlow/PyTorch, OpenCV |
-| [Fuel Quality Predictor](https://github.com/The-Mohamadreza/PROJECT_REPO_2) | ML model that classifies fuel samples and flags contaminated or substandard fuel | Python, Machine Learning |
-| [GitHub Account Finder](https://github.com/The-Mohamadreza/PROJECT_REPO_3) | Web app that looks up and displays GitHub account details from a username | PHP, JavaScript, SQL |
-| [NOVA — Telegram Store](https://github.com/The-Mohamadreza/PROJECT_REPO_4) | Full-stack storefront with color-variant products and a Telegram-based checkout flow | PHP, MySQL, JavaScript |
+|
 
 <br>
 
