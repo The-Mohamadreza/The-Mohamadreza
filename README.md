@@ -1,309 +1,454 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00E5FF&height=220&section=header&text=MOHAMMADREZA&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,35:07111F,70:0B1B33,100:00E5FF&text=MOHAMMADREZA&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=19&descColor=9CA3AF"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%F0%9F%A7%A0;Computer+Vision+%7C+OCR+%F0%9F%91%81%EF%B8%8F;Full+Stack+Web+Development+%F0%9F%8C%90;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=I+build+intelligent+systems.;I+turn+data+into+decisions.;I+connect+AI+with+real+products.;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+Computer+Vision;AI+%E2%80%A2+Web+%E2%80%A2+Engineering+%E2%80%A2+Innovation"/>
 
 <br><br>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00E5FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-# ⚡ WHO AM I?
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   MOHAMMADREZA                                               │
-│   AI ENGINEER & FULL STACK DEVELOPER                         │
-│                                                              │
-│   🤖 Artificial Intelligence                                 │
-│   🧠 Machine Learning / Deep Learning                        │
-│   👁️ Computer Vision / OCR                                  │
-│   🌐 Full Stack Web Development                              │
-│   ⚡ Electronics & Technology                                 │
-│                                                              │
-│   I build intelligent systems and turn ideas into           │
-│   practical, modern and usable software.                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I'm passionate about building **AI-powered applications**, solving real-world problems, and connecting intelligent models with modern web technologies.
-
-I enjoy working across the entire development process:
-
-**Problem → Data → AI → Backend → Interface → Product 🚀**
-
----
-
-# 🧠 MY AI WORLD
 
 <div align="center">
 
-| 🧠 Machine Learning |   🤖 Deep Learning   | 👁️ Computer Vision |
-| :-----------------: | :------------------: | :-----------------: |
-|    Classification   |    Neural Networks   |   Image Processing  |
-|      Regression     |          CNN         |   Object Detection  |
-|   Data Processing   | Image Classification |    Face Detection   |
-|   Model Evaluation  |  TensorFlow / Keras  |         OCR         |
+### `01` — PROFILE
 
 </div>
 
-### 🔬 AI & Data Stack
+<table>
+<tr>
+<td width="60%">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark"/>
-</p>
+## 👋 Hello, I'm Mohammadreza.
 
-<p align="center">
+I'm an **AI Engineer and Full Stack Web Developer** focused on building intelligent, practical and modern software.
 
-`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `TensorFlow` · `Keras` · `OpenCV` · `OCR`
+My work sits at the intersection of:
 
-</p>
+**Artificial Intelligence × Computer Vision × Web Development**
+
+I enjoy taking a problem from the initial idea and moving through **data processing, model development, backend engineering and user-facing applications** until it becomes a usable product.
+
+</td>
+
+<td width="40%">
+
+```text
+┌─────────────────────┐
+│                     │
+│   🤖 AI             │
+│   👁️ Vision         │
+│   🌐 Web             │
+│   ⚙️ Engineering     │
+│                     │
+│   BUILD > LEARN     │
+│   SHIP > REPEAT     │
+│                     │
+└─────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
-
-# 🌐 FULL STACK DEVELOPMENT
 
 <div align="center">
 
-```text
-                    🌐 WEB APPLICATION
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-        🎨 FRONTEND                 ⚙️ BACKEND
-             │                           │
-       HTML • CSS • JS              PHP • SQL
-             │                           │
-             └─────────────┬─────────────┘
-                           │
-                      🗄️ DATABASE
-                           │
-                         MySQL
-```
+### `02` — WHAT I DO
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+
+### AI
+
+Machine Learning
+Deep Learning
+Model Development
+Data Analysis
+
+</td>
+
+<td align="center" width="25%">
+
+### 👁️
+
+### VISION
+
+OpenCV
+Image Processing
+OCR
+Visual Recognition
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+### WEB
+
+Frontend
+Backend
+Databases
+Full Stack Apps
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+### BUILD
+
+Automation
+AI Products
+Dashboards
+Real-world Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `03` — AI STACK
 
 </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
 </p>
 
----
+<p align="center">
 
-# 🛠️ TECHNOLOGY UNIVERSE
+`Python` · `Machine Learning` · `Deep Learning` · `TensorFlow` · `Keras`
+`Scikit-learn` · `NumPy` · `Pandas` · `Matplotlib`
+`OpenCV` · `OCR` · `Computer Vision`
 
-### 🤖 AI / Data
-
-`Python` `Machine Learning` `Deep Learning` `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `OCR` `NumPy` `Pandas` `Matplotlib`
-
-### 🌐 Web
-
-`HTML5` `CSS3` `JavaScript` `PHP` `SQL` `MySQL`
-
-### ⚙️ Tools
-
-`Git` `GitHub` `VS Code`
-
----
-
-# 🚀 FEATURED PROJECTS
-
-> **Not just projects. Real problems. Real solutions.**
+</p>
 
 <br>
 
-## 🏭 AI Factory Intelligence
-
-**Intelligent industrial analytics platform**
-
-A concept focused on using AI to analyze industrial data, identify patterns, monitor equipment and support better operational decisions.
-
-**Core:** `Python` `Machine Learning` `Data Analysis`
-
-**Status:** `🚧 Building`
-
-`[ 💻 SOURCE CODE ]` ` [ 🌐 LIVE DEMO ]`
-
----
-
-## ⚡ Energy Optimization AI
-
-**Smart industrial energy optimization**
-
-An AI-based system designed to analyze equipment energy consumption, predict usage patterns and identify opportunities for reducing unnecessary energy consumption.
-
-**Core:** `Python` `Machine Learning` `Pandas` `Scikit-learn`
-
-**Status:** `🚧 Building`
-
-`[ 💻 SOURCE CODE ]` ` [ 🌐 LIVE DEMO ]`
-
----
-
-## 👁️ VisionGuard AI
-
-**Computer Vision monitoring system**
-
-A computer vision project focused on real-time visual analysis using cameras and AI models.
-
-**Core:** `Python` `OpenCV` `Computer Vision`
-
-**Status:** `🚧 Building`
-
-`[ 💻 SOURCE CODE ]` ` [ 🎥 DEMO ]`
-
----
-
-## 🔎 Smart OCR
-
-**Intelligent image-to-text platform**
-
-A system designed to process images, detect text and extract useful information from visual documents.
-
-**Core:** `Python` `OpenCV` `OCR`
-
-**Status:** `🚧 Building`
-
-`[ 💻 SOURCE CODE ]` ` [ 🌐 LIVE DEMO ]`
-
----
-
-## 🤖 AI Business Assistant
-
-**AI-powered web application**
-
-A full-stack application combining an intelligent backend with a modern web interface to create a practical AI-powered product.
-
-**Core:** `Python` `AI` `PHP` `JavaScript` `MySQL`
-
-**Status:** `🚧 Building`
-
-`[ 💻 SOURCE CODE ]` ` [ 🌐 LIVE DEMO ]`
-
----
-
-# 🧩 HOW I BUILD
-
 ```text
-                 💡 IDEA
-                   │
-                   ▼
-             🔍 PROBLEM
-                   │
-                   ▼
-              📊 DATA
-                   │
-                   ▼
-            🧹 PROCESSING
-                   │
-                   ▼
-              🧠 AI MODEL
-                   │
-                   ▼
-             ⚙️ BACKEND
-                   │
-                   ▼
-             🌐 WEB APP
-                   │
-                   ▼
-              🚀 PRODUCT
+                    ARTIFICIAL INTELLIGENCE
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+       MACHINE LEARNING  DEEP LEARNING   COMPUTER VISION
+             │                │                │
+       Classification        CNNs          OpenCV
+       Regression             Models        OCR
+       Evaluation             Images        Processing
+             │                │                │
+             └────────────────┼────────────────┘
+                              ▼
+                    INTELLIGENT SYSTEM
 ```
 
-### My philosophy
-
-> **Learn → Build → Break → Debug → Improve → Repeat**
-
-I don't want to only learn technologies.
-
-**I want to use them to build things.**
-
 ---
-
-# 📊 GITHUB PERFORMANCE
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+### `04` — WEB STACK
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center"><b>Frontend</b><br>HTML • CSS • JavaScript</td>
+<td align="center"><b>Backend</b><br>PHP • Python</td>
+<td align="center"><b>Database</b><br>MySQL • SQL</td>
+</tr>
+</table>
+
+<br>
+
+> I don't see AI and Web Development as separate worlds.
+>
+> **The interesting part is connecting them.**
+
+```text
+       🧠 AI MODEL
+            │
+            ▼
+       ⚙️ BACKEND
+            │
+            ▼
+       🗄️ DATABASE
+            │
+            ▼
+       🌐 WEB APP
+            │
+            ▼
+        👤 USER
+```
+
+---
+
+<div align="center">
+
+### `05` — SELECTED WORK
+
+</div>
+
+> ### Building projects that demonstrate **engineering ability**, not just technology names.
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+## 🏭 Industrial AI
+
+**AI-driven industrial intelligence**
+
+A project direction focused on analyzing industrial data, discovering patterns and transforming operational data into useful insights.
+
+**Focus**
+
+`Machine Learning`
+`Data Analysis`
+`Python`
+
+**Status:** `IN DEVELOPMENT`
+
+</td>
+
+<td width="50%">
+
+## ⚡ Energy AI
+
+**Intelligent energy optimization**
+
+Analyze equipment consumption, identify patterns and build predictive models for smarter energy management.
+
+**Focus**
+
+`Python`
+`Scikit-learn`
+`Pandas`
+
+**Status:** `IN DEVELOPMENT`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 👁️ Vision AI
+
+**Real-time computer vision**
+
+A vision-based system for analyzing camera input and extracting meaningful visual information.
+
+**Focus**
+
+`Python`
+`OpenCV`
+`Computer Vision`
+
+**Status:** `IN DEVELOPMENT`
+
+</td>
+
+<td width="50%">
+
+## 🔎 OCR Intelligence
+
+**Visual information extraction**
+
+Process images, detect text and transform visual information into structured digital data.
+
+**Focus**
+
+`Python`
+`OpenCV`
+`OCR`
+
+**Status:** `IN DEVELOPMENT`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**More projects → coming soon**
+
+</div>
+
+---
+
+<div align="center">
+
+### `06` — ENGINEERING APPROACH
+
+</div>
+
+```text
+┌──────────────┐
+│   PROBLEM    │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     DATA     │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│  PROCESSING  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   AI MODEL   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   BACKEND    │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│  WEB / UI    │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    PRODUCT   │
+└──────────────┘
+```
+
+### My mindset
+
+**Learn → Build → Test → Break → Debug → Improve → Ship**
+
+I believe technology becomes valuable when it can solve a real problem.
+
+---
+
+<div align="center">
+
+### `07` — TOOLBOX
+
+</div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,git,github,vscode&theme=dark"/>
+</p>
+
+<p align="center">
+
+**AI**
+Python · ML · DL · OpenCV · OCR
+
+**WEB**
+HTML · CSS · JavaScript · PHP · SQL · MySQL
+
+**TOOLS**
+Git · GitHub · VS Code
+
+</p>
+
+---
+
+<div align="center">
+
+### `08` — GITHUB
+
+</div>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=9CA3AF&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=9CA3AF"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00E5FF&fire=7B2CFF&currStreakLabel=00E5FF"/>
+</p>
+
+---
+
+<div align="center">
+
+### `09` — CURRENT FOCUS
+
+</div>
+
+<table align="center">
+<tr>
+<td>🤖 Artificial Intelligence</td>
+<td>🧠 Deep Learning</td>
+</tr>
+<tr>
+<td>👁️ Computer Vision</td>
+<td>🔎 OCR</td>
+</tr>
+<tr>
+<td>🌐 AI + Web</td>
+<td>🚀 Real Products</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `10` — LET'S BUILD
+
+<br>
+
+**Have a problem?**
+
+**Have an idea?**
+
+**Need an AI-powered application?**
+
+### Let's turn it into something real. 🚀
+
+<br>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 CURRENTLY BUILDING
-
-```text
-🤖 AI & Machine Learning
-        ↓
-🧠 Deep Learning
-        ↓
-👁️ Computer Vision & OCR
-        ↓
-🌐 AI-powered Web Applications
-        ↓
-🚀 Real-world Products
-```
-
-I'm continuously improving my skills by building increasingly complex projects and turning what I learn into practical applications.
-
----
-
-# 💼 OPEN TO
-
-<div align="center">
-
-### 🚀 Freelance Projects
-
-### 🤝 Collaboration
-
-### 🤖 AI Development
-
-### 🌐 Web Development
-
-### 🧠 AI + Web Applications
-
-### 💡 Interesting Technical Ideas
-
-</div>
-
----
-
-# 🤝 LET'S CONNECT
-
-<div align="center">
-
-<a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
-
-<a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/> </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Have an idea? Let's turn it into something real. 🚀**
+`AI` `MACHINE LEARNING` `DEEP LEARNING` `COMPUTER VISION` `OCR` `WEB`
 
 </div>
 
@@ -311,8 +456,10 @@ I'm continuously improving my skills by building increasingly complex projects a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CFF,100:FF00A8&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,40:07111F,70:4C1D95,100:00E5FF&section=footer"/>
 
-### ⚡ AI • CODE • INNOVATION • ENGINEERING
+### ⚡ BUILDING INTELLIGENT SYSTEMS.
+
+### 🚀 TURNING IDEAS INTO PRODUCTS.
 
 </div>
