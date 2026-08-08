@@ -25,12 +25,14 @@
 
 ### 👋 About Me
 
-- 🎓 **AI Engineer & Full-Stack Developer** — based in **Iran**
-- 🛠️ I build real tools — computer vision systems, e-commerce platforms, automation scripts
-- 🧠 Hands-on experience with **TensorFlow**, **PyTorch**, and **Computer Vision**
-- 💻 Comfortable across the full stack — from **Python/ML** to **PHP/MySQL** web apps
-- 🥈 Silver medalist at an international invention & innovation competition
-- 🚀 Currently learning: **LLMs**, **RAG pipelines**, **scalable ML systems**
+* 🎓 **AI Engineer & Full-Stack Developer** — building intelligent, real-world digital solutions
+* 🛠️ I build **AI-powered tools, computer vision systems, e-commerce platforms, and automation solutions**
+* 🧠 Hands-on experience with **Machine Learning, Deep Learning, TensorFlow, PyTorch & Computer Vision**
+* 💻 Full-stack experience — from **Python & ML pipelines** to **PHP, MySQL, JavaScript & modern web applications**
+* 🥈 **Silver Medalist** at an international **Invention & Innovation Competition**
+* 🚀 Currently exploring **LLMs, RAG pipelines, AI Agents & scalable ML systems**
+* 🔥 Passionate about turning **complex ideas into practical, intelligent products**
+ms**
 
 <br>
 
