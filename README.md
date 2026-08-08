@@ -26,13 +26,14 @@
 
 <br>
 
-<div align="center">
-<h3>ABOUT</h3>
-</div>
+### 👋 About Me
 
-<p align="center" width="700">
-&nbsp;&nbsp;&nbsp;&nbsp;I design and build intelligent systems — from real-time computer vision models to full-stack products people actually use. My work sits at the intersection of <b>AI</b> and <b>engineering</b>: I don't just train models, I ship them inside real applications. Currently exploring LLMs, RAG pipelines, and scalable ML systems.
-</p>
+- 🎓 **AI Engineer & Full-Stack Developer** — based in **Iran**
+- 🛠️ I build real tools — computer vision systems, e-commerce platforms, automation scripts
+- 🧠 Hands-on experience with **TensorFlow**, **PyTorch**, and **Computer Vision**
+- 💻 Comfortable across the full stack — from **Python/ML** to **PHP/MySQL** web apps
+- 🥈 Silver medalist at an international invention & innovation competition
+- 🚀 Currently learning: **LLMs**, **RAG pipelines**, **scalable ML systems**
 
 <br>
 
@@ -40,18 +41,30 @@
 
 <br>
 
-<div align="center">
-<h3>RIGHT NOW</h3>
-<br>
+### 🛠️ Tech Stack
 
-<table>
-<tr><td>🔭</td><td align="left"><b>Building</b> — a Telegram-integrated e-commerce platform (PHP · MySQL)</td></tr>
-<tr><td>🌱</td><td align="left"><b>Learning</b> — LLMs, RAG pipelines, and scalable ML systems</td></tr>
-<tr><td>💬</td><td align="left"><b>Ask me about</b> — Computer vision, full-stack architecture, PHP/MySQL</td></tr>
-<tr><td>📫</td><td align="left"><b>Reach me</b> — diegoai4040@gmail.com or <a href="https://t.me/Diegoo_AA">@Diegoo_AA</a> on Telegram</td></tr>
-</table>
+**Languages**
 
-</div>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**AI &amp; Machine Learning**
+
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+**Tools &amp; Frameworks**
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 <br>
 
@@ -70,28 +83,6 @@
 <img src="https://img.shields.io/badge/🌐%20MEMBER-World%20Inventors%20%26%20Innovators%20Association-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
 <br><br>
 <img src="https://img.shields.io/badge/🇹🇷%20COMPETITOR-Turkey%20Intl.%20Innovation%20Competition-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:D4AF37&height=2&section=header" width="100%"/>
-
-<br>
-
-<div align="center">
-<h3>TECHNOLOGY</h3>
-<br>
-
-<b>Artificial Intelligence</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-
-<br><br>
-
-<b>Web Development</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=php,js,html,css,figma,mysql&theme=dark" />
 
 </div>
 
