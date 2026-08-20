@@ -82,14 +82,14 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="./assets/achievements/geneva-silver-medal.jpg" width="100%" alt="IFIA Silver Medal — Geneva, Switzerland"/>
+<img src="geneva-silver-medal.jpg" width="100%" alt="IFIA Silver Medal — Geneva, Switzerland"/>
 <br><br>
 <img src="https://img.shields.io/badge/🥈%20SILVER%20MEDAL-6th%20Intl.%20Invention%20%26%20Innovation%20Competition-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
 <br>
 <sub>Geneva, Switzerland · 03–05 July 2026<br/>for <i>"AI Cognitive Analyzer – Stress and Brain Age via Typing and Mouse Dynamics"</i></sub>
 </td>
 <td align="center" width="50%">
-<img src="./assets/achievements/ifia-membership.jpg" width="100%" alt="IFIA Inv Membership Certificate"/>
+<img src="ifia-membership.jpg" width="100%" alt="IFIA Inv Membership Certificate"/>
 <br><br>
 <img src="https://img.shields.io/badge/🌐%20MEMBER-International%20Federation%20of%20Inventors'%20Associations-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
 <br>
