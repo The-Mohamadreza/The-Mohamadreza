@@ -100,9 +100,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/🇹🇷%20COMPETITOR-Turkey%20Intl.%20Innovation%20Competition-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
+<!-- <img src="https://img.shields.io/badge/🇹🇷%20COMPETITOR-Turkey%20Intl.%20Innovation%20Competition-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
 
-</div>
+</div> -->
 
 <br>
 
