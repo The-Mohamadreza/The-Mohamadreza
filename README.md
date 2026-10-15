@@ -1,286 +1,218 @@
- <div align="center">
+<!-- 🌌 COLORFUL PROFILE HEADER -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:101010,70:211B0B,100:050505&height=250&section=header&text=MOHAMADREZA&fontSize=54&fontColor=E8C873&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%20%7C%20%20SOFTWARE%20ENGINEERING&descSize=13&descColor=C9C2B2&descAlignY=58" width="100%" alt="Mohamadreza — AI and Software Engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101426,35:6D5DFB,70:22D3EE,100:F472B6&height=230&section=header&text=Mohammadreza%20Asadpour&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=56" width="100%" alt="Mohammadreza Asadpour profile banner"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Full-Stack+Development+%7C+Creative+Problem+Solving;Turning+Ideas+into+Real-World+Projects" alt="Animated introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2800&pause=900&color=E8C873&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Intelligent+Systems.;Engineering+AI.+Building+Software.+Creating+Impact.;Curiosity+Is+The+Beginning+Of+Innovation." alt="Introduction"/>
+<p>
+  <a href="https://github.com/The-Mohamadreza">
+    <img src="https://img.shields.io/badge/GitHub-The--Mohamadreza-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mohamadasadpoor74@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/TheMohamadreza0">
+    <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamadreza-asadpour-097499428/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<br/><br/>
-
-<a href="https://github.com/The-Mohamadreza"><img src="https://img.shields.io/badge/GITHUB-101010?style=for-the-badge&logo=github&logoColor=E8C873" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/mohamadreza-asadpour-097499428/"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=E8C873" alt="LinkedIn"/></a>
-<a href="mailto:mohamadasadpoor74@gmail.com"><img src="https://img.shields.io/badge/EMAIL-101010?style=for-the-badge&logo=gmail&logoColor=E8C873" alt="Email"/></a>
-<a href="https://t.me/TheMohamadreza0"><img src="https://img.shields.io/badge/TELEGRAM-101010?style=for-the-badge&logo=telegram&logoColor=E8C873" alt="Telegram"/></a>
-<a href="https://x.com/The_Mohamadreza"><img src="https://img.shields.io/badge/𝕏-101010?style=for-the-badge&logo=x&logoColor=E8C873" alt="X"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=The-Mohamadreza&label=PROFILE%20VIEWS&color=8D7133&style=flat-square" alt="Profile views"/>
-
-<br/><br/>
-
-<sub><b>INDEPENDENT THINKING.</b> &nbsp; <b>INTELLIGENT ENGINEERING.</b> &nbsp; <b>CONTINUOUS INNOVATION.</b></sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5DFB,50:22D3EE,100:F472B6&height=3&section=header" width="100%" alt="Colorful divider"/>
 
 </div>
 
-<br/>
+## 👨‍💻 About Me
+
+Hello! I'm **Mohammadreza Asadpour**, an AI Engineer and Full-Stack Developer passionate about building intelligent systems and modern digital experiences.
+
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning.
+- 🧠 Exploring Computer Vision, neural networks, LLMs, RAG, and AI agents.
+- 🌐 Developing web applications and full-stack projects.
+- 🏆 Silver Medalist at the 6th International Invention & Innovation Competition in Geneva, Switzerland, in 2026.
+- 📚 Continuously learning through technical courses, hands-on projects, and research.
+- 🚀 Focused on turning creative ideas into practical, real-world solutions.
+
+**My goal:** Combine AI, software engineering, and creativity to build technology that makes a difference.
 
 ---
 
-<div align="center">
+## 🌈 Tech Stack & Skills
 
-<sub>01 &nbsp; / &nbsp; THE ENGINEER</sub>
+### 💻 Programming Languages
 
-# Beyond the Code.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
-**I build technology to turn complex ideas into practical solutions.**
+### 🤖 Artificial Intelligence & Machine Learning
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</p>
 
-I'm **Mohamadreza Asadpour**, an AI Engineer and Full-Stack Developer interested in the intersection of artificial intelligence, software engineering, and product innovation.
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=flat-square&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=flat-square&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-EC4899?style=flat-square&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-14B8A6?style=flat-square&logoColor=white" alt="Neural Networks"/>
+  <img src="https://img.shields.io/badge/LLMs-6366F1?style=flat-square&logoColor=white" alt="Large Language Models"/>
+  <img src="https://img.shields.io/badge/RAG-F97316?style=flat-square&logoColor=white" alt="Retrieval-Augmented Generation"/>
+</p>
 
-My focus is on creating intelligent applications, exploring machine learning techniques, and developing software that solves meaningful real-world problems.
+### 🌐 Web Development
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+</p>
 
-**01 — Artificial Intelligence**
+### 🗄️ Databases
 
-Exploring machine learning, neural networks, and computer vision to build intelligent applications.
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Relational%20Databases-0891B2?style=for-the-badge&logoColor=white" alt="Relational Databases"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+### 🛠️ Tools & Design
 
-**02 — Software Engineering**
-
-Developing practical software, automation tools, and maintainable application architectures.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 — Full-Stack Development**
-
-Connecting interfaces, application logic, and databases to deliver functional digital products.
-
-</td>
-<td width="50%" valign="top">
-
-**04 — Research & Innovation**
-
-Turning experimental ideas into projects, prototypes, and technology-driven solutions.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/INTERNATIONAL%20INNOVATION-SILVER%20MEDAL-C9A85A?style=for-the-badge&labelColor=101010" alt="International innovation silver medal"/>
-
-<sub>6th International Invention & Innovation Competition · Geneva, Switzerland · July 2026</sub>
-
-</div>
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
 ---
 
-<div align="center">
-
-<sub>02 &nbsp; / &nbsp; TECHNICAL ARSENAL</sub>
-
-# Technologies & Expertise
-
-<sub>A structured overview of my programming languages, AI frameworks, and development tools.</sub>
-
-</div>
-
-### `01` &nbsp; Programming Languages
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=E8C873" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=E8C873" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=E8C873" alt="PHP"/>
-<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=E8C873" alt="C Sharp"/>
+### 🥈 International Silver Medal — Geneva, Switzerland
 
-</div>
-
-### `02` &nbsp; Artificial Intelligence & Machine Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=flat-square&logo=scikitlearn&logoColor=E8C873" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-111111?style=flat-square&logo=pytorch&logoColor=E8C873" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=E8C873" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=E8C873" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111111?style=flat-square&logo=opencv&logoColor=E8C873" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv&logoColor=E8C873" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=E8C873" alt="Scikit-learn"/>
-
-</div>
-
-### `03` &nbsp; Web Engineering
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E8C873" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=E8C873" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=E8C873" alt="Flask"/>
-<img src="https://img.shields.io/badge/jQuery-111111?style=flat-square&logo=jquery&logoColor=E8C873" alt="jQuery"/>
-
-</div>
-
-### `04` &nbsp; Data & Development Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=E8C873" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=databricks&logoColor=E8C873" alt="SQL"/>
-<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=E8C873" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=E8C873" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=E8C873" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=E8C873" alt="Linux"/>
-<img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=E8C873" alt="Figma"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>03 &nbsp; / &nbsp; SELECTED ACHIEVEMENTS</sub>
-
-# Innovation, Recognized.
-
-<sub>International recognition for engineering and invention.</sub>
-
-<br/><br/>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-<img src="geneva-silver-medal.jpg" width="100%" alt="International Invention and Innovation Competition silver medal"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/01-SILVER%20MEDAL-C9A85A?style=for-the-badge&labelColor=101010" alt="Silver medal"/>
-
-### International Innovation Award
-
-**6th International Invention & Innovation Competition**
-
-Geneva, Switzerland
-
-`03–05 July 2026`
-
-<br/>
-
-<sub><b>Recognized Project</b></sub>
-
-**AI Cognitive Analyzer**
-
-Stress and Brain Age Estimation via Typing and Mouse Dynamics
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="ifia-membership.jpg" width="100%" alt="International Federation of Inventors' Associations membership certificate"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/02-IFIA%20MEMBER-C9A85A?style=for-the-badge&labelColor=101010" alt="IFIA membership"/>
-
-### International Innovation Community
-
-**International Federation of Inventors' Associations**
-
-<br/>
-
-Recognized as an official `Inv` member.
-
-<br/><br/>
-
-<sub>Invention · Engineering · Innovation</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>04 &nbsp; / &nbsp; GITHUB INSIGHTS</sub>
-
-# The Work Behind the Profile
-
-<sub>A snapshot of my public GitHub activity and programming language distribution.</sub>
-
-<br/><br/>
-
-<a href="https://github.com/The-Mohamadreza">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=The-Mohamadreza&show_icons=true&hide_border=true&bg_color=090909&title_color=E8C873&icon_color=E8C873&text_color=D5D5D5&hide_rank=true&include_all_commits=true" alt="GitHub statistics"/>
+<a href="./geneva-silver-medal.jpg">
+  <img src="./geneva-silver-medal.jpg" width="420" alt="Silver Medal at the 6th International Invention and Innovation Competition in Geneva"/>
 </a>
 
+**6th International Invention & Innovation Competition — Geneva 2026**
+
+Awarded a Silver Medal for the innovation:
+
+**AI Cognitive Analyzer — Stress and Brain Age via Typing and Mouse Dynamics**
+
+📍 Geneva, Switzerland · July 3–5, 2026
+
+<br/>
+
+### 🌍 IFIA Recognition
+
+<a href="./ifia-membership.jpg">
+  <img src="./ifia-membership.jpg" width="320" alt="IFIA membership recognition certificate"/>
+</a>
+
+**IFIA — International Federation of Inventors' Associations**
+
+Recognized as an IFIA inventor member.
+
+</div>
+
+---
+
+## 🎓 Certificates & Courses
+
+<div align="center">
+
+### 🤖 IBM — AI Fundamentals
+
+<a href="./AI_Fundamentals_Badge_High_Quality.png">
+  <img src="./AI_Fundamentals_Badge_High_Quality.png" width="250" alt="IBM AI Fundamentals course badge"/>
+</a>
+
+**AI Fundamentals**
+
+Learning in Artificial Intelligence through IBM's AI fundamentals course.
+
+<br/>
+
+### 🎓 Harvard University — CS50x
+
+<a href="./CS50x.png">
+  <img src="./CS50x.png" width="320" alt="Harvard CS50x course certificate"/>
+</a>
+
+**CS50's Introduction to Computer Science**
+
+An introduction to computer science and programming through Harvard's CS50x course.
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=The-Mohamadreza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Mohamadreza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=The-Mohamadreza&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/The-Mohamadreza/The-Mohamadreza/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in AI projects, software development, creative ideas, and opportunities to learn and collaborate.
+
+<div align="center">
+
+<a href="mailto:mohamadasadpoor74@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://t.me/TheMohamadreza0">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://x.com/The_Mohamadreza">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://www.linkedin.com/in/mohamadreza-asadpour-097499428/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <a href="https://github.com/The-Mohamadreza">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Mohamadreza&layout=compact&hide_border=true&bg_color=090909&title_color=E8C873&text_color=D5D5D5&langs_count=8" alt="Most used programming languages"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Mohamadreza&hide_border=true&background=090909&ring=E8C873&fire=E8C873&currStreakLabel=E8C873&sideLabels=D5D5D5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak"/>
+**💡 Code. Create. Innovate. Repeat.**
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>05 &nbsp; / &nbsp; CONSISTENCY & PROGRESS</sub>
-
-# Every Contribution Counts.
-
-<img src="https://raw.githubusercontent.com/The-Mohamadreza/The-Mohamadreza/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution graph animation"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>06 &nbsp; / &nbsp; OPEN TO WHAT'S NEXT</sub>
-
-# Let's Build Something Meaningful.
-
-I’m interested in ambitious ideas, AI-driven products, challenging engineering problems, and opportunities to create technology with real-world impact.
-
-<br/><br/>
-
-<a href="mailto:mohamadasadpoor74@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-E8C873?style=for-the-badge&logo=gmail&logoColor=101010" alt="Contact me"/></a>
-<a href="https://www.linkedin.com/in/mohamadreza-asadpour-097499428/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=E8C873" alt="Connect on LinkedIn"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:15120B,75:211B0B,100:050505&height=170&section=footer&text=THINK.%20BUILD.%20INNOVATE.&fontSize=24&fontColor=E8C873&fontAlignY=62" width="100%" alt="Think, build, innovate"/>
-
-<sub>© Mohamadreza Asadpour · Engineered with curiosity.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,35:22D3EE,70:6D5DFB,100:101426&height=120&section=footer" width="100%" alt="Colorful profile footer"/>
 
 </div>
