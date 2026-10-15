@@ -1,7 +1,7 @@
 <!-- 🌌 COLORFUL PROFILE HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101426,35:6D5DFB,70:22D3EE,100:F472B6&height=230&section=header&text=Mohammadreza%20Asadpour&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=56" width="100%" alt="Mohammadreza Asadpour profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101426,35:6D5DFB,70:22D3EE,100:F472B6&height=230&section=header&text=Mohamadreza%20Asadpour&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=56" width="100%" alt="Mohammadreza Asadpour profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Full-Stack+Development+%7C+Creative+Problem+Solving;Turning+Ideas+into+Real-World+Projects" alt="Animated introduction"/>
 
